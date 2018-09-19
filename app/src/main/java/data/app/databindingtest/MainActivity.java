@@ -3,7 +3,7 @@ package data.app.databindingtest;
 import android.databinding.DataBindingUtil;
 import android.databinding.ObservableArrayList;
 import android.os.Bundle;
-import android.databinding.DataBindingUtil;
+import android.accounts.AbstractAccountAuthenticator;
 import android.support.v7.app.AppCompatActivity;
 
 
