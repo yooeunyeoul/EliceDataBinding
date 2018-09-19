@@ -3,7 +3,9 @@ package data.app.databindingtest;
 import android.databinding.DataBindingUtil;
 import android.databinding.ObservableArrayList;
 import android.os.Bundle;
+import android.databinding.DataBindingUtil;
 import android.support.v7.app.AppCompatActivity;
+
 
 import data.app.databindingtest.databinding.ActivityMainBinding;
 
